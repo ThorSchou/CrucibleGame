@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: d14ca274e98625a4d971c697059ec103
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6595241787632592779
+    second: trifire-all-spritesheet-12f_0
+  - first:
+      213: 2927222007453304363
+    second: trifire-all-spritesheet-12f_1
+  - first:
+      213: 1309490752242064695
+    second: trifire-all-spritesheet-12f_2
+  - first:
+      213: -1174301081064104920
+    second: trifire-all-spritesheet-12f_3
+  - first:
+      213: 2907099249630510464
+    second: trifire-all-spritesheet-12f_4
+  - first:
+      213: 6677219236635403648
+    second: trifire-all-spritesheet-12f_5
+  - first:
+      213: 1389313048354326289
+    second: trifire-all-spritesheet-12f_6
+  - first:
+      213: -8828512118707912148
+    second: trifire-all-spritesheet-12f_7
+  - first:
+      213: 6320105548059769254
+    second: trifire-all-spritesheet-12f_8
+  - first:
+      213: 2403483883734708986
+    second: trifire-all-spritesheet-12f_9
+  - first:
+      213: 7928962995544340535
+    second: trifire-all-spritesheet-12f_10
+  - first:
+      213: 521684047525779073
+    second: trifire-all-spritesheet-12f_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trifire-all-spritesheet-12f_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 13
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8727a77671078b50800000000000000
+      internalID: 6595241787632592779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-all-spritesheet-12f_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 13
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26c5fc18e49f9820800000000000000
+      internalID: 2927222007453304363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-all-spritesheet-12f_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 13
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d1c04b6ee3c2210800000000000000
+      internalID: 1309490752242064695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-all-spritesheet-12f_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 13
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c11d3736b04bfe0800000000000000
+      internalID: -1174301081064104920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-all-spritesheet-12f_4
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 13
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08df7057d57185820800000000000000
+      internalID: 2907099249630510464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-all-spritesheet-12f_5
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 13
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085ee0fa48f3aac50800000000000000
+      internalID: 6677219236635403648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-all-spritesheet-12f_6
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 13
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11789f84bd4d74310800000000000000
+      internalID: 1389313048354326289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-all-spritesheet-12f_7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 13
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c220f25e003da7580800000000000000
+      internalID: -8828512118707912148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-all-spritesheet-12f_8
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 13
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9f317b28685b750800000000000000
+      internalID: 6320105548059769254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-all-spritesheet-12f_9
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 13
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af23269abd3ea5120800000000000000
+      internalID: 2403483883734708986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-all-spritesheet-12f_10
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 13
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73833a2c5d5590e60800000000000000
+      internalID: 7928962995544340535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-all-spritesheet-12f_11
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 13
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18613c190e46d3700800000000000000
+      internalID: 521684047525779073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      trifire-all-spritesheet-12f_0: 6595241787632592779
+      trifire-all-spritesheet-12f_1: 2927222007453304363
+      trifire-all-spritesheet-12f_10: 7928962995544340535
+      trifire-all-spritesheet-12f_11: 521684047525779073
+      trifire-all-spritesheet-12f_2: 1309490752242064695
+      trifire-all-spritesheet-12f_3: -1174301081064104920
+      trifire-all-spritesheet-12f_4: 2907099249630510464
+      trifire-all-spritesheet-12f_5: 6677219236635403648
+      trifire-all-spritesheet-12f_6: 1389313048354326289
+      trifire-all-spritesheet-12f_7: -8828512118707912148
+      trifire-all-spritesheet-12f_8: 6320105548059769254
+      trifire-all-spritesheet-12f_9: 2403483883734708986
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

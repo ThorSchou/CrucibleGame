@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - GameMusic
+  - GameAmbience
+  - SpawnPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - Wall
+  - Collectable
+  - Dead
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer6
+    uniqueID: 2740793975
+    locked: 0
+  - name: Layer5
+    uniqueID: 92769475
+    locked: 0
+  - name: Layer4
+    uniqueID: 2604021271
+    locked: 0
+  - name: Layer3
+    uniqueID: 3905752769
+    locked: 0
+  - name: Layer2
+    uniqueID: 3684619359
+    locked: 0
+  - name: Layer1
+    uniqueID: 2299322659
+    locked: 0
+  - name: Layer0
+    uniqueID: 1359665763
+    locked: 0
+  - name: Interactables
+    uniqueID: 2310754611
+    locked: 0
+  - name: Player
+    uniqueID: 3821558831
+    locked: 0
+  - name: Layer-1
+    uniqueID: 3219173047
+    locked: 0
+  - name: Layer-2
+    uniqueID: 1649782953
+    locked: 0
+  - name: Layer-3
+    uniqueID: 795122137
+    locked: 0
+  - name: Layer-4
+    uniqueID: 1449294675
+    locked: 0
+  - name: Layer-5
+    uniqueID: 1035321813
+    locked: 0
+  - name: Layer-6
+    uniqueID: 2783178033
+    locked: 0
+  - name: Gameplay
+    uniqueID: 2842449463
+    locked: 0
+  - name: Effects
+    uniqueID: 1097350421
+    locked: 0
+  m_RenderingLayers:
+  - Default

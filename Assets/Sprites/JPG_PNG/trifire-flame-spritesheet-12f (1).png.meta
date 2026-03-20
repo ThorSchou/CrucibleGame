@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 9f173e65fcf74dc4c9d26b217041d3e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2627571194764654749
+    second: trifire-flame-spritesheet-12f (1)_0
+  - first:
+      213: -8814482595287817739
+    second: trifire-flame-spritesheet-12f (1)_1
+  - first:
+      213: 192611540681104075
+    second: trifire-flame-spritesheet-12f (1)_2
+  - first:
+      213: -1590182407173649796
+    second: trifire-flame-spritesheet-12f (1)_3
+  - first:
+      213: -1343956146825792794
+    second: trifire-flame-spritesheet-12f (1)_4
+  - first:
+      213: -3363598011293022391
+    second: trifire-flame-spritesheet-12f (1)_5
+  - first:
+      213: -239337891960847740
+    second: trifire-flame-spritesheet-12f (1)_6
+  - first:
+      213: 8873409971092133194
+    second: trifire-flame-spritesheet-12f (1)_7
+  - first:
+      213: -3577346925890537601
+    second: trifire-flame-spritesheet-12f (1)_8
+  - first:
+      213: -6448398987545006016
+    second: trifire-flame-spritesheet-12f (1)_9
+  - first:
+      213: -8698499255176374630
+    second: trifire-flame-spritesheet-12f (1)_10
+  - first:
+      213: -2108986558502084148
+    second: trifire-flame-spritesheet-12f (1)_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trifire-flame-spritesheet-12f (1)_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 33
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367010a7bedf88bd0800000000000000
+      internalID: -2627571194764654749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-flame-spritesheet-12f (1)_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 33
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1a10dd7caaca580800000000000000
+      internalID: -8814482595287817739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-flame-spritesheet-12f (1)_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 33
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca10fdfc2b4ca200800000000000000
+      internalID: 192611540681104075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-flame-spritesheet-12f (1)_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 33
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ac65c96898ee9e0800000000000000
+      internalID: -1590182407173649796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-flame-spritesheet-12f (1)_4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 33
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2feba410f495de0800000000000000
+      internalID: -1343956146825792794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-flame-spritesheet-12f (1)_5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 33
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9474ba90e691251d0800000000000000
+      internalID: -3363598011293022391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-flame-spritesheet-12f (1)_6
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 33
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48202609473bdacf0800000000000000
+      internalID: -239337891960847740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-flame-spritesheet-12f (1)_7
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 33
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a451b59fa5fa42b70800000000000000
+      internalID: 8873409971092133194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-flame-spritesheet-12f (1)_8
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 33
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7775fbace5ba5ec0800000000000000
+      internalID: -3577346925890537601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-flame-spritesheet-12f (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 33
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0403461394fa286a0800000000000000
+      internalID: -6448398987545006016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-flame-spritesheet-12f (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 33
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9656389309b84780800000000000000
+      internalID: -8698499255176374630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trifire-flame-spritesheet-12f (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 33
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1e86026ef5bb2e0800000000000000
+      internalID: -2108986558502084148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      trifire-flame-spritesheet-12f (1)_0: -2627571194764654749
+      trifire-flame-spritesheet-12f (1)_1: -8814482595287817739
+      trifire-flame-spritesheet-12f (1)_10: -8698499255176374630
+      trifire-flame-spritesheet-12f (1)_11: -2108986558502084148
+      trifire-flame-spritesheet-12f (1)_2: 192611540681104075
+      trifire-flame-spritesheet-12f (1)_3: -1590182407173649796
+      trifire-flame-spritesheet-12f (1)_4: -1343956146825792794
+      trifire-flame-spritesheet-12f (1)_5: -3363598011293022391
+      trifire-flame-spritesheet-12f (1)_6: -239337891960847740
+      trifire-flame-spritesheet-12f (1)_7: 8873409971092133194
+      trifire-flame-spritesheet-12f (1)_8: -3577346925890537601
+      trifire-flame-spritesheet-12f (1)_9: -6448398987545006016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

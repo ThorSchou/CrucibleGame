@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9585e4e50481946438a0e3856a44edaa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 190721
+  packageName: Dragon Crashers - URP 2D Sample Project
+  packageVersion: 1.61
+  assetPath: Assets/Settings/UniversalRP.asset
+  uploadId: 722358
