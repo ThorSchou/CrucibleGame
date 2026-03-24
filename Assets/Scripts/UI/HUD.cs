@@ -150,6 +150,9 @@ public class HUD : MonoBehaviour
 
     public void RefreshHearts()
     {
+        if (playerHealth == null) playerHealth = NewPlayer.Instance?.GetComponent<HealthComponent>();
+        if (playerStats == null) playerStats = NewPlayer.Instance?.GetComponent<PlayerStats>();
+        if (playerHealth == null || playerStats == null) return;
         // Each slot represents 2 HP:
         //   2 HP = trifire (flame + triangle)
         //   1 HP = flame only (triangle removed)
@@ -196,6 +199,7 @@ public class HUD : MonoBehaviour
 
     private void AnimateHearts()
     {
+        if (playerHealth == null) return;
         int maxFrames = Mathf.Max(
             trifireFrames != null ? trifireFrames.Length : 0,
             flameFrames != null ? flameFrames.Length : 0);

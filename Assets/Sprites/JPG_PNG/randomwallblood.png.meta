@@ -1,0 +1,2483 @@
+fileFormatVersion: 2
+guid: e387b927e31bf3043a13a253426cff6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1430150872147788022
+    second: randomwallblood_0
+  - first:
+      213: 7386765387282683852
+    second: randomwallblood_1
+  - first:
+      213: -7226333354645977154
+    second: randomwallblood_2
+  - first:
+      213: -8623059659484346091
+    second: randomwallblood_3
+  - first:
+      213: -7207060734984048605
+    second: randomwallblood_4
+  - first:
+      213: -8430729963836551487
+    second: randomwallblood_5
+  - first:
+      213: -7543119862752243464
+    second: randomwallblood_6
+  - first:
+      213: -6886150211305762876
+    second: randomwallblood_7
+  - first:
+      213: -8097577710450032961
+    second: randomwallblood_8
+  - first:
+      213: -1468266499340501603
+    second: randomwallblood_9
+  - first:
+      213: 709957692795908980
+    second: randomwallblood_10
+  - first:
+      213: 6543953717219123404
+    second: randomwallblood_11
+  - first:
+      213: -4154163788920183114
+    second: randomwallblood_12
+  - first:
+      213: -3920004927653648150
+    second: randomwallblood_13
+  - first:
+      213: -436394868274073624
+    second: randomwallblood_14
+  - first:
+      213: -2627579997149976361
+    second: randomwallblood_15
+  - first:
+      213: 4702086441830072237
+    second: randomwallblood_16
+  - first:
+      213: -5870601736059206509
+    second: randomwallblood_17
+  - first:
+      213: -1049104779828595787
+    second: randomwallblood_18
+  - first:
+      213: -7090827846477515891
+    second: randomwallblood_19
+  - first:
+      213: -5417946550578158873
+    second: randomwallblood_20
+  - first:
+      213: -4762052855726604956
+    second: randomwallblood_21
+  - first:
+      213: 3175158708552674534
+    second: randomwallblood_22
+  - first:
+      213: -4213112085785230527
+    second: randomwallblood_23
+  - first:
+      213: -4550701916717363155
+    second: randomwallblood_24
+  - first:
+      213: 6173159137327595572
+    second: randomwallblood_25
+  - first:
+      213: -3614122699552594651
+    second: randomwallblood_26
+  - first:
+      213: -652237455311284607
+    second: randomwallblood_27
+  - first:
+      213: -5595689752267332987
+    second: randomwallblood_28
+  - first:
+      213: 8176452158799389885
+    second: randomwallblood_29
+  - first:
+      213: 5723951240600104309
+    second: randomwallblood_30
+  - first:
+      213: -6834995318055411832
+    second: randomwallblood_31
+  - first:
+      213: 3589440102301747184
+    second: randomwallblood_32
+  - first:
+      213: 539638790746885072
+    second: randomwallblood_33
+  - first:
+      213: 5881347685482667455
+    second: randomwallblood_34
+  - first:
+      213: 2003420486954514318
+    second: randomwallblood_35
+  - first:
+      213: -1276138791273495401
+    second: randomwallblood_36
+  - first:
+      213: 7230845732468364879
+    second: randomwallblood_37
+  - first:
+      213: -3825122881070240661
+    second: randomwallblood_38
+  - first:
+      213: -118136390578941514
+    second: randomwallblood_39
+  - first:
+      213: 8898772006023907536
+    second: randomwallblood_40
+  - first:
+      213: -8512032912106032254
+    second: randomwallblood_41
+  - first:
+      213: -7008264223011948130
+    second: randomwallblood_42
+  - first:
+      213: 7332565096796713607
+    second: randomwallblood_43
+  - first:
+      213: -1751519962138163861
+    second: randomwallblood_44
+  - first:
+      213: 8232775546284446049
+    second: randomwallblood_45
+  - first:
+      213: 4280627797092392536
+    second: randomwallblood_46
+  - first:
+      213: -5676997780431064849
+    second: randomwallblood_47
+  - first:
+      213: 2714801134964596118
+    second: randomwallblood_48
+  - first:
+      213: 6127473557237334794
+    second: randomwallblood_49
+  - first:
+      213: -2203992599107709431
+    second: randomwallblood_50
+  - first:
+      213: 5667388248959428090
+    second: randomwallblood_51
+  - first:
+      213: 1345329614889399673
+    second: randomwallblood_52
+  - first:
+      213: -8904004626377633172
+    second: randomwallblood_53
+  - first:
+      213: -9031877353094216624
+    second: randomwallblood_54
+  - first:
+      213: -5637292890322121140
+    second: randomwallblood_55
+  - first:
+      213: 6733904081509791597
+    second: randomwallblood_56
+  - first:
+      213: -4860005040032127687
+    second: randomwallblood_57
+  - first:
+      213: 8818779626178207886
+    second: randomwallblood_58
+  - first:
+      213: 3601246707622467012
+    second: randomwallblood_59
+  - first:
+      213: 660508069387896789
+    second: randomwallblood_60
+  - first:
+      213: 8146413499841878332
+    second: randomwallblood_61
+  - first:
+      213: 3327697971547251820
+    second: randomwallblood_62
+  - first:
+      213: -903707001928825879
+    second: randomwallblood_63
+  - first:
+      213: -2397087524970221140
+    second: randomwallblood_64
+  - first:
+      213: -71791253278132558
+    second: randomwallblood_65
+  - first:
+      213: -2736561252851258591
+    second: randomwallblood_66
+  - first:
+      213: 5199033937752392730
+    second: randomwallblood_67
+  - first:
+      213: 1476458066037878658
+    second: randomwallblood_68
+  - first:
+      213: -5817073765168877068
+    second: randomwallblood_69
+  - first:
+      213: -3361934364821103877
+    second: randomwallblood_70
+  - first:
+      213: 1670888882230384462
+    second: randomwallblood_71
+  - first:
+      213: -6310032950053372641
+    second: randomwallblood_72
+  - first:
+      213: -6035234126662068248
+    second: randomwallblood_73
+  - first:
+      213: 3141460465715876631
+    second: randomwallblood_74
+  - first:
+      213: -3759036013582538051
+    second: randomwallblood_75
+  - first:
+      213: -5369197815463458476
+    second: randomwallblood_76
+  - first:
+      213: 2470821566351813672
+    second: randomwallblood_77
+  - first:
+      213: 1603492628531049000
+    second: randomwallblood_78
+  - first:
+      213: 6214883594096560815
+    second: randomwallblood_79
+  - first:
+      213: 6754548516789157558
+    second: randomwallblood_80
+  - first:
+      213: -7190168394407544308
+    second: randomwallblood_81
+  - first:
+      213: 7213724033447644339
+    second: randomwallblood_82
+  - first:
+      213: -532197873500078785
+    second: randomwallblood_83
+  - first:
+      213: 5739092478956707987
+    second: randomwallblood_84
+  - first:
+      213: 4839684951385566066
+    second: randomwallblood_85
+  - first:
+      213: -6226468514773305212
+    second: randomwallblood_86
+  - first:
+      213: 3835233809410829842
+    second: randomwallblood_87
+  - first:
+      213: 2331732388361975871
+    second: randomwallblood_88
+  - first:
+      213: 5182408357714351276
+    second: randomwallblood_89
+  - first:
+      213: -2357152010390436957
+    second: randomwallblood_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: randomwallblood_0
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 573
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f7a6aeb55172ce0800000000000000
+      internalID: -1430150872147788022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_1
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 584
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc79224abff038660800000000000000
+      internalID: 7386765387282683852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_2
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 586
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb705c7c918e6bb90800000000000000
+      internalID: -7226333354645977154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_3
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 574
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5194f673decb45880800000000000000
+      internalID: -8623059659484346091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_4
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 568
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3203c9832706bfb90800000000000000
+      internalID: -7207060734984048605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_5
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 508
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cec74c04c7000b80800000000000000
+      internalID: -8430729963836551487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_6
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 563
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f095723374715790800000000000000
+      internalID: -7543119862752243464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_7
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 573
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf83210eda7f60a0800000000000000
+      internalID: -6886150211305762876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_8
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 565
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe3183a9ff9f9f80800000000000000
+      internalID: -8097577710450032961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_9
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 565
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9df337e56baf9be0800000000000000
+      internalID: -1468266499340501603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_10
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 533
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473f7a492c64ad900800000000000000
+      internalID: 709957692795908980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_11
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 562
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc061750c3bc0da50800000000000000
+      internalID: 6543953717219123404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_12
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 555
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b62f9e2b027956c0800000000000000
+      internalID: -4154163788920183114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 555
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae86c6199485999c0800000000000000
+      internalID: -3920004927653648150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_14
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 563
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef68beed2d91f9f0800000000000000
+      internalID: -436394868274073624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_15
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 539
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d824f20ae5f88bd0800000000000000
+      internalID: -2627579997149976361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 542
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf3674c4ba214140800000000000000
+      internalID: 4702086441830072237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_17
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 545
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394466823de678ea0800000000000000
+      internalID: -5870601736059206509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_18
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 550
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3f62ad2c4d071f0800000000000000
+      internalID: -1049104779828595787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_19
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 553
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83724774a1589d90800000000000000
+      internalID: -7090827846477515891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_20
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 555
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e26cb851569fc4b0800000000000000
+      internalID: -5417946550578158873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 531
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46df7cc782ac9edb0800000000000000
+      internalID: -4762052855726604956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_22
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 542
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec25c0d50e601c20800000000000000
+      internalID: 3175158708552674534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_23
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 542
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143cdd741e40885c0800000000000000
+      internalID: -4213112085785230527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_24
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 542
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d205f57a7b8a8d0c0800000000000000
+      internalID: -4550701916717363155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_25
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 542
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4304e5257877ba550800000000000000
+      internalID: 6173159137327595572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_26
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 537
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525ed7e9d8e08ddc0800000000000000
+      internalID: -3614122699552594651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_27
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 545
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18657f67d79c2f6f0800000000000000
+      internalID: -652237455311284607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_28
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 528
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582efca41dd1852b0800000000000000
+      internalID: -5595689752267332987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 521
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4a630fae7987170800000000000000
+      internalID: 8176452158799389885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_30
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 531
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d20a7935f8f6f40800000000000000
+      internalID: 5723951240600104309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_31
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 516
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f59d9b8f73521a0800000000000000
+      internalID: -6834995318055411832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_32
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 528
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7cc3061c040d130800000000000000
+      internalID: 3589440102301747184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_33
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 529
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db4d7dfe9e2d7700800000000000000
+      internalID: 539638790746885072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_34
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 526
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd92c92f8ebe9150800000000000000
+      internalID: 5881347685482667455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_35
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 526
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87f9ac71549dcb10800000000000000
+      internalID: 2003420486954514318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_36
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 283
+        width: 130
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7940c06d78e3a4ee0800000000000000
+      internalID: -1276138791273495401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 717
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f461d6d02ef195460800000000000000
+      internalID: 7230845732468364879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_38
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 518
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ce69b810f6aeac0800000000000000
+      internalID: -3825122881070240661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_39
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 519
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1de74249b4c5ef0800000000000000
+      internalID: -118136390578941514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_40
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 507
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8ce34edf9ce7b70800000000000000
+      internalID: 8898772006023907536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_41
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 505
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2837c754a2f2fd980800000000000000
+      internalID: -8512032912106032254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_42
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 505
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e993b4f02d4adbe90800000000000000
+      internalID: -7008264223011948130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_43
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 522
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782fefe1b1182c560800000000000000
+      internalID: 7332565096796713607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_44
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 515
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65cfb7dfd951b7e0800000000000000
+      internalID: -1751519962138163861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_45
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 498
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1619ecf7db1b04270800000000000000
+      internalID: 8232775546284446049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_46
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 485
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85eda5d3d48d76b30800000000000000
+      internalID: 4280627797092392536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_47
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 500
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0b9b2c8904731b0800000000000000
+      internalID: -5676997780431064849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_48
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 479
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d5465af39eca520800000000000000
+      internalID: 2714801134964596118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_49
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 485
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a030bbd4cb8290550800000000000000
+      internalID: 6127473557237334794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_50
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 466
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906589a8868d961e0800000000000000
+      internalID: -2203992599107709431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_51
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 461
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af52377d59b96ae40800000000000000
+      internalID: 5667388248959428090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_52
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 437
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975bb4928229ba210800000000000000
+      internalID: 1345329614889399673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_53
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 450
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62935eb7fe9e6480800000000000000
+      internalID: -8904004626377633172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_54
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 430
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0548ce9766358a280800000000000000
+      internalID: -9031877353094216624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_55
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 437
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ec381ebff44c1b0800000000000000
+      internalID: -5637292890322121140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_56
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 426
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67b1f99512a37d50800000000000000
+      internalID: 6733904081509791597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_57
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 413
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935e64e5a2bcd8cb0800000000000000
+      internalID: -4860005040032127687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_58
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 385
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80edca9859926a70800000000000000
+      internalID: 8818779626178207886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_59
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 395
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5d164ecc23af130800000000000000
+      internalID: 3601246707622467012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_60
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 374
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7052fe6989a2900800000000000000
+      internalID: 660508069387896789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_61
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 377
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c399583aaefdd0170800000000000000
+      internalID: 8146413499841878332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_62
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 377
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64acd99cab5e2e20800000000000000
+      internalID: 3327697971547251820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_63
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 375
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3cff015436573f0800000000000000
+      internalID: -903707001928825879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_64
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca131aaa895dbbed0800000000000000
+      internalID: -2397087524970221140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_65
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 364
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6706a4c32f00ff0800000000000000
+      internalID: -71791253278132558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_66
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 367
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12be3b91a08c50ad0800000000000000
+      internalID: -2736561252851258591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_67
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 345
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a148eea12dda62840800000000000000
+      internalID: 5199033937752392730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_68
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fa2f7d9ce6d7410800000000000000
+      internalID: 1476458066037878658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_69
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 338
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f17dd21b3a954fa0800000000000000
+      internalID: -5817073765168877068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_70
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 343
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfad8aae1820851d0800000000000000
+      internalID: -3361934364821103877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_71
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 329
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47dd7ce590303710800000000000000
+      internalID: 1670888882230384462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_72
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 322
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dfe03c6724e68a0800000000000000
+      internalID: -6310032950053372641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_73
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 332
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e71effa98a8e3ca0800000000000000
+      internalID: -6035234126662068248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_74
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 320
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7139dee36a5b89b20800000000000000
+      internalID: 3141460465715876631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_75
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 0
+        width: 134
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba238079a835dbc0800000000000000
+      internalID: -3759036013582538051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_76
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 283
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4594f78b807cc75b0800000000000000
+      internalID: -5369197815463458476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_77
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 307
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c26c5af1f1a4220800000000000000
+      internalID: 2470821566351813672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_78
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 272
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822fc8bcc00c04610800000000000000
+      internalID: 1603492628531049000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_79
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 281
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa478273b3bf3650800000000000000
+      internalID: 6214883594096560815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_80
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 268
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6befb51c61afcbd50800000000000000
+      internalID: 6754548516789157558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_81
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 268
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0af810c0f3673c90800000000000000
+      internalID: -7190168394407544308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_82
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 230
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc4859d9cb4c1460800000000000000
+      internalID: 7213724033447644339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_83
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 254
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d3fcf8ad04d98f0800000000000000
+      internalID: -532197873500078785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_84
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 222
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390a45dd33a55af40800000000000000
+      internalID: 5739092478956707987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_85
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 186
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27be32052d30a2340800000000000000
+      internalID: 4839684951385566066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_86
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 155
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48878c300e32799a0800000000000000
+      internalID: -6226468514773305212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_87
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 71
+        width: 29
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e208864dc793530800000000000000
+      internalID: 3835233809410829842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_88
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38b69fc04afb5020800000000000000
+      internalID: 2331732388361975871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_89
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 29
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4549a91fc9be740800000000000000
+      internalID: 5182408357714351276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomwallblood_90
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 5
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3841b3cb6b94fd0800000000000000
+      internalID: -2357152010390436957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      randomwallblood_0: -1430150872147788022
+      randomwallblood_1: 7386765387282683852
+      randomwallblood_10: 709957692795908980
+      randomwallblood_11: 6543953717219123404
+      randomwallblood_12: -4154163788920183114
+      randomwallblood_13: -3920004927653648150
+      randomwallblood_14: -436394868274073624
+      randomwallblood_15: -2627579997149976361
+      randomwallblood_16: 4702086441830072237
+      randomwallblood_17: -5870601736059206509
+      randomwallblood_18: -1049104779828595787
+      randomwallblood_19: -7090827846477515891
+      randomwallblood_2: -7226333354645977154
+      randomwallblood_20: -5417946550578158873
+      randomwallblood_21: -4762052855726604956
+      randomwallblood_22: 3175158708552674534
+      randomwallblood_23: -4213112085785230527
+      randomwallblood_24: -4550701916717363155
+      randomwallblood_25: 6173159137327595572
+      randomwallblood_26: -3614122699552594651
+      randomwallblood_27: -652237455311284607
+      randomwallblood_28: -5595689752267332987
+      randomwallblood_29: 8176452158799389885
+      randomwallblood_3: -8623059659484346091
+      randomwallblood_30: 5723951240600104309
+      randomwallblood_31: -6834995318055411832
+      randomwallblood_32: 3589440102301747184
+      randomwallblood_33: 539638790746885072
+      randomwallblood_34: 5881347685482667455
+      randomwallblood_35: 2003420486954514318
+      randomwallblood_36: -1276138791273495401
+      randomwallblood_37: 7230845732468364879
+      randomwallblood_38: -3825122881070240661
+      randomwallblood_39: -118136390578941514
+      randomwallblood_4: -7207060734984048605
+      randomwallblood_40: 8898772006023907536
+      randomwallblood_41: -8512032912106032254
+      randomwallblood_42: -7008264223011948130
+      randomwallblood_43: 7332565096796713607
+      randomwallblood_44: -1751519962138163861
+      randomwallblood_45: 8232775546284446049
+      randomwallblood_46: 4280627797092392536
+      randomwallblood_47: -5676997780431064849
+      randomwallblood_48: 2714801134964596118
+      randomwallblood_49: 6127473557237334794
+      randomwallblood_5: -8430729963836551487
+      randomwallblood_50: -2203992599107709431
+      randomwallblood_51: 5667388248959428090
+      randomwallblood_52: 1345329614889399673
+      randomwallblood_53: -8904004626377633172
+      randomwallblood_54: -9031877353094216624
+      randomwallblood_55: -5637292890322121140
+      randomwallblood_56: 6733904081509791597
+      randomwallblood_57: -4860005040032127687
+      randomwallblood_58: 8818779626178207886
+      randomwallblood_59: 3601246707622467012
+      randomwallblood_6: -7543119862752243464
+      randomwallblood_60: 660508069387896789
+      randomwallblood_61: 8146413499841878332
+      randomwallblood_62: 3327697971547251820
+      randomwallblood_63: -903707001928825879
+      randomwallblood_64: -2397087524970221140
+      randomwallblood_65: -71791253278132558
+      randomwallblood_66: -2736561252851258591
+      randomwallblood_67: 5199033937752392730
+      randomwallblood_68: 1476458066037878658
+      randomwallblood_69: -5817073765168877068
+      randomwallblood_7: -6886150211305762876
+      randomwallblood_70: -3361934364821103877
+      randomwallblood_71: 1670888882230384462
+      randomwallblood_72: -6310032950053372641
+      randomwallblood_73: -6035234126662068248
+      randomwallblood_74: 3141460465715876631
+      randomwallblood_75: -3759036013582538051
+      randomwallblood_76: -5369197815463458476
+      randomwallblood_77: 2470821566351813672
+      randomwallblood_78: 1603492628531049000
+      randomwallblood_79: 6214883594096560815
+      randomwallblood_8: -8097577710450032961
+      randomwallblood_80: 6754548516789157558
+      randomwallblood_81: -7190168394407544308
+      randomwallblood_82: 7213724033447644339
+      randomwallblood_83: -532197873500078785
+      randomwallblood_84: 5739092478956707987
+      randomwallblood_85: 4839684951385566066
+      randomwallblood_86: -6226468514773305212
+      randomwallblood_87: 3835233809410829842
+      randomwallblood_88: 2331732388361975871
+      randomwallblood_89: 5182408357714351276
+      randomwallblood_9: -1468266499340501603
+      randomwallblood_90: -2357152010390436957
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -21,3 +21,5 @@ thumbs.db
 *.unityproj
 *.sln
 *.csproj
+.plastic/
+.vs/

@@ -206,4 +206,20 @@ public class PlayerCombat : MonoBehaviour, IDamageable
         foreach (SpriteRenderer sprite in graphicSprites)
             sprite.gameObject.SetActive(!hide);
     }
+
+    public void RestartPlayer()
+    {
+        player.dead = false;
+        player.Freeze(false);
+        gameObject.layer = LayerMask.NameToLayer("Player");
+        GetComponent<Collider2D>().enabled = true;
+        GetComponent<HealthComponent>().ResetHealth();
+        if (animator != null) animator.enabled = true;
+        if (isAttacking)
+        {
+            StopCoroutine(nameof(ActivateHitbox));
+            attackHitbox.SetActive(false);
+            isAttacking = false;
+        }
+    }
 }

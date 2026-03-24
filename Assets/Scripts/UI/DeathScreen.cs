@@ -28,18 +28,42 @@ public class DeathScreen : MonoBehaviour
 
     public void Restart()
     {
-        // Reset everything and start fresh at round 1
-        RoundManager.Instance.ResetRounds();
-        GameManager.Instance.ResetRun();
+        gameObject.SetActive(false);
         Time.timeScale = 1f;
-        SceneManager.LoadScene("Arena_Dragons");
+        Cursor.visible = false;
+
+        // Destroy all persistent objects so they recreate fresh
+        Destroy(NewPlayer.Instance.gameObject);
+        Destroy(GameManager.Instance.gameObject);
+        Destroy(RoundManager.Instance.gameObject);
+
+        // Find and destroy persistent cameras and HUD
+        GameObject cameras = GameObject.Find("Cameras");
+        GameObject hud = GameObject.Find("HUD");
+        if (cameras != null) Destroy(cameras);
+        if (hud != null) Destroy(hud);
+
+        SceneManager.LoadScene("Hub");
     }
 
     public void MainMenu()
     {
-        RoundManager.Instance.ResetRounds();
-        GameManager.Instance.ResetRun();
+        gameObject.SetActive(false);
         Time.timeScale = 1f;
+        Cursor.visible = false;
+
+        // Destroy all persistent objects so they recreate fresh
+        Destroy(NewPlayer.Instance.gameObject);
+        Destroy(GameManager.Instance.gameObject);
+        Destroy(RoundManager.Instance.gameObject);
+
+        GameObject cameras = GameObject.Find("Cameras");
+        GameObject hud = GameObject.Find("HUD");
+        GameObject pauseMenu = GameObject.Find("PauseMenu");
+        if (cameras != null) Destroy(cameras);
+        if (hud != null) Destroy(hud);
+        if (pauseMenu != null) Destroy(pauseMenu);
+
         SceneManager.LoadScene("MainMenu");
     }
 }

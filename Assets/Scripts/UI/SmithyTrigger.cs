@@ -5,10 +5,16 @@ public class SmithyTrigger : MonoBehaviour
 {
     private bool playerInRange = false;
 
+    void Start()
+    {
+        SmithyUpgradeMenu.Instance = FindFirstObjectByType<SmithyUpgradeMenu>(FindObjectsInactive.Include);
+    }
+
     void Update()
     {
+        if (SmithyUpgradeMenu.Instance == null) return;
         if (playerInRange && Keyboard.current.eKey.wasPressedThisFrame
-            && !SmithyUpgradeMenu.Instance.gameObject.activeSelf)
+            && !SmithyUpgradeMenu.Instance.IsOpen)
         {
             SmithyUpgradeMenu.Instance.Open();
         }

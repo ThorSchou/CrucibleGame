@@ -15,5 +15,5 @@ MonoBehaviour:
   weaponName: Big Axe
   damage: 2
   price: 35
-  sprite: {fileID: 21300000, guid: 3ca274e85cca44c539934b0ff8fdb395, type: 3}
-  shopIcon: {fileID: 21300000, guid: 3ca274e85cca44c539934b0ff8fdb395, type: 3}
+  sprite: {fileID: 1006652111391640485, guid: 943a0dc1e08018c4b803474eb7f518a9, type: 3}
+  shopIcon: {fileID: 1006652111391640485, guid: 943a0dc1e08018c4b803474eb7f518a9, type: 3}

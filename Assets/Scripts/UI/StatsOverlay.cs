@@ -11,7 +11,6 @@ public class StatsOverlay : MonoBehaviour
     [SerializeField] private TextMeshProUGUI highestRoundText;
     [SerializeField] private Button backButton;
     [SerializeField] private GameObject menuButtonsParent;
-
     void OnEnable()
     {
         // Read directly from PlayerPrefs so it works even without GameManager
@@ -30,7 +29,12 @@ public class StatsOverlay : MonoBehaviour
     public void Close()
     {
         if (menuButtonsParent != null)
+        {
             menuButtonsParent.SetActive(true);
+            var firstButton = menuButtonsParent.GetComponentInChildren<Button>();
+            if (firstButton != null)
+                EventSystem.current.SetSelectedGameObject(firstButton.gameObject);
+        }
         gameObject.SetActive(false);
     }
 }

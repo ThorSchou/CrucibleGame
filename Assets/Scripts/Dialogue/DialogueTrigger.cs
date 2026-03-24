@@ -154,4 +154,9 @@ public class DialogueTrigger : MonoBehaviour
         GameManager.Instance.GetInventoryItem(getWhichItem, null);
         instantGet = false;
     }
+
+    public void EnableInteractAction()
+    {
+        if (interactAction != null) interactAction.action.Enable();
+    }
 }

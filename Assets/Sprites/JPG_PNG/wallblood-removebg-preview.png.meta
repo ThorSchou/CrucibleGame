@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 9675338e90b11214fb0ce6ccf7987804
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6155163436266892964
+    second: wallblood-removebg-preview_0
+  - first:
+      213: 5436147253797354869
+    second: wallblood-removebg-preview_1
+  - first:
+      213: 2393353786730363859
+    second: wallblood-removebg-preview_2
+  - first:
+      213: 6482613504161350326
+    second: wallblood-removebg-preview_3
+  - first:
+      213: -7870830156875933167
+    second: wallblood-removebg-preview_4
+  - first:
+      213: 4188941602791094607
+    second: wallblood-removebg-preview_5
+  - first:
+      213: -3121915790389698609
+    second: wallblood-removebg-preview_6
+  - first:
+      213: 6856812618372529672
+    second: wallblood-removebg-preview_7
+  - first:
+      213: -6887121894578016059
+    second: wallblood-removebg-preview_8
+  - first:
+      213: 8169760495990921861
+    second: wallblood-removebg-preview_9
+  - first:
+      213: -1618665538305717170
+    second: wallblood-removebg-preview_10
+  - first:
+      213: -1681696478378982492
+    second: wallblood-removebg-preview_11
+  - first:
+      213: -4050603776815515329
+    second: wallblood-removebg-preview_12
+  - first:
+      213: 4190103278007565059
+    second: wallblood-removebg-preview_13
+  - first:
+      213: -598002189275630731
+    second: wallblood-removebg-preview_14
+  - first:
+      213: -7974099464367390029
+    second: wallblood-removebg-preview_15
+  - first:
+      213: 3748214959270955412
+    second: wallblood-removebg-preview_16
+  - first:
+      213: 2724336352135607108
+    second: wallblood-removebg-preview_17
+  - first:
+      213: -7415013094923305904
+    second: wallblood-removebg-preview_18
+  - first:
+      213: -5919857963054731909
+    second: wallblood-removebg-preview_19
+  - first:
+      213: 1145822879391167452
+    second: wallblood-removebg-preview_20
+  - first:
+      213: 1756409208915522629
+    second: wallblood-removebg-preview_21
+  - first:
+      213: -1427707041218760236
+    second: wallblood-removebg-preview_22
+  - first:
+      213: 4625993831046584406
+    second: wallblood-removebg-preview_23
+  - first:
+      213: 7486016175071949292
+    second: wallblood-removebg-preview_24
+  - first:
+      213: 5871324904355612517
+    second: wallblood-removebg-preview_25
+  - first:
+      213: -8085018994266795338
+    second: wallblood-removebg-preview_26
+  - first:
+      213: 2112946425277018110
+    second: wallblood-removebg-preview_27
+  - first:
+      213: -3773477580085694317
+    second: wallblood-removebg-preview_28
+  - first:
+      213: 336432690903667749
+    second: wallblood-removebg-preview_29
+  - first:
+      213: -1941439740954857490
+    second: wallblood-removebg-preview_30
+  - first:
+      213: 1360869918019792101
+    second: wallblood-removebg-preview_31
+  - first:
+      213: -4258425337491454525
+    second: wallblood-removebg-preview_32
+  - first:
+      213: -840972163308213209
+    second: wallblood-removebg-preview_33
+  - first:
+      213: -8185027912804491056
+    second: wallblood-removebg-preview_34
+  - first:
+      213: -1585817530984977790
+    second: wallblood-removebg-preview_35
+  - first:
+      213: -5998713222505148494
+    second: wallblood-removebg-preview_36
+  - first:
+      213: -4657856030179804112
+    second: wallblood-removebg-preview_37
+  - first:
+      213: -2062687136519984810
+    second: wallblood-removebg-preview_38
+  - first:
+      213: -1005120676293583415
+    second: wallblood-removebg-preview_39
+  - first:
+      213: 5680994622515229830
+    second: wallblood-removebg-preview_40
+  - first:
+      213: 7747220983980224470
+    second: wallblood-removebg-preview_41
+  - first:
+      213: -97717099187415245
+    second: wallblood-removebg-preview_42
+  - first:
+      213: -1172518187542023228
+    second: wallblood-removebg-preview_43
+  - first:
+      213: 8059613127089907137
+    second: wallblood-removebg-preview_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51d6d65777749aa0800000000000000
+      internalID: -6155163436266892964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 309
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d7e491023117b40800000000000000
+      internalID: 5436147253797354869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 240
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db36e7a696e63120800000000000000
+      internalID: 2393353786730363859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 293
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b200bbb2aed6f950800000000000000
+      internalID: 6482613504161350326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 271
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a5afb7ca135c290800000000000000
+      internalID: -7870830156875933167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 263
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49f73b913c122a30800000000000000
+      internalID: 4188941602791094607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 276
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf9327112abca4d0800000000000000
+      internalID: -3121915790389698609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 258
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80eb2895fba482f50800000000000000
+      internalID: 6856812618372529672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 253
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0bcdc50270c60a0800000000000000
+      internalID: -6887121894578016059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 254
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ade87c2e1d06170800000000000000
+      internalID: 8169760495990921861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 265
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c0f1bd4485989e0800000000000000
+      internalID: -1618665538305717170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 259
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3023286f969a8e0800000000000000
+      internalID: -1681696478378982492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 254
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f393e05735d59c7c0800000000000000
+      internalID: -4050603776815515329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 245
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b37d13bbc362a30800000000000000
+      internalID: 4190103278007565059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573f15d5d2873b7f0800000000000000
+      internalID: -598002189275630731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 253
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2cfb629ce465190800000000000000
+      internalID: -7974099464367390029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 246
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499862585a5540430800000000000000
+      internalID: 3748214959270955412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 250
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443f9b56a79cec520800000000000000
+      internalID: 2724336352135607108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 242
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cf93860e4981990800000000000000
+      internalID: -7415013094923305904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 245
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dea5f1c8078dda0800000000000000
+      internalID: -5919857963054731909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 200
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd330a586d7c6ef00800000000000000
+      internalID: 1145822879391167452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 227
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54472a1aed4006810800000000000000
+      internalID: 1756409208915522629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 157
+        width: 121
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1f4d4a204cf2ce0800000000000000
+      internalID: -1427707041218760236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 173
+        width: 91
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6581ea831e4d23040800000000000000
+      internalID: 4625993831046584406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 182
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1fdf17c0ca3e760800000000000000
+      internalID: 7486016175071949292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 188
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567450594e22b7150800000000000000
+      internalID: 5871324904355612517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 186
+        width: 124
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2117c9f0e3ccf80800000000000000
+      internalID: -8085018994266795338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 193
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff61143491b25d10800000000000000
+      internalID: 2112946425277018110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 189
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3907717322ae1abc0800000000000000
+      internalID: -3773477580085694317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 46
+        width: 78
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5245428ffbf3ba400800000000000000
+      internalID: 336432690903667749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 103
+        width: 131
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef2f8f77de9e05e0800000000000000
+      internalID: -1941439740954857490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 128
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eca511faf7c2e210800000000000000
+      internalID: 1360869918019792101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 132
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c58c48b7b807e4c0800000000000000
+      internalID: -4258425337491454525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 111
+        width: 108
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ca50ce5444454f0800000000000000
+      internalID: -840972163308213209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 129
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0a1acba70f86e80800000000000000
+      internalID: -8185027912804491056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 66
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28aad0b8b5b0ef9e0800000000000000
+      internalID: -1585817530984977790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 39
+        width: 78
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf442f4b1a40cca0800000000000000
+      internalID: -5998713222505148494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 119
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cb8327e98fb5fb0800000000000000
+      internalID: -4657856030179804112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 40
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65965f85afcdf53e0800000000000000
+      internalID: -2062687136519984810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 50
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdde1df1181d02f0800000000000000
+      internalID: -1005120676293583415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 56
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684bced8282f6de40800000000000000
+      internalID: 5680994622515229830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 56
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfe79a3078a38b60800000000000000
+      internalID: 7747220983980224470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 34
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337d376e0d6d4aef0800000000000000
+      internalID: -97717099187415245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 40
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c37fd2bbe06abfe0800000000000000
+      internalID: -1172518187542023228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallblood-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 43
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5e44bff6f79df60800000000000000
+      internalID: 8059613127089907137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wallblood-removebg-preview_0: -6155163436266892964
+      wallblood-removebg-preview_1: 5436147253797354869
+      wallblood-removebg-preview_10: -1618665538305717170
+      wallblood-removebg-preview_11: -1681696478378982492
+      wallblood-removebg-preview_12: -4050603776815515329
+      wallblood-removebg-preview_13: 4190103278007565059
+      wallblood-removebg-preview_14: -598002189275630731
+      wallblood-removebg-preview_15: -7974099464367390029
+      wallblood-removebg-preview_16: 3748214959270955412
+      wallblood-removebg-preview_17: 2724336352135607108
+      wallblood-removebg-preview_18: -7415013094923305904
+      wallblood-removebg-preview_19: -5919857963054731909
+      wallblood-removebg-preview_2: 2393353786730363859
+      wallblood-removebg-preview_20: 1145822879391167452
+      wallblood-removebg-preview_21: 1756409208915522629
+      wallblood-removebg-preview_22: -1427707041218760236
+      wallblood-removebg-preview_23: 4625993831046584406
+      wallblood-removebg-preview_24: 7486016175071949292
+      wallblood-removebg-preview_25: 5871324904355612517
+      wallblood-removebg-preview_26: -8085018994266795338
+      wallblood-removebg-preview_27: 2112946425277018110
+      wallblood-removebg-preview_28: -3773477580085694317
+      wallblood-removebg-preview_29: 336432690903667749
+      wallblood-removebg-preview_3: 6482613504161350326
+      wallblood-removebg-preview_30: -1941439740954857490
+      wallblood-removebg-preview_31: 1360869918019792101
+      wallblood-removebg-preview_32: -4258425337491454525
+      wallblood-removebg-preview_33: -840972163308213209
+      wallblood-removebg-preview_34: -8185027912804491056
+      wallblood-removebg-preview_35: -1585817530984977790
+      wallblood-removebg-preview_36: -5998713222505148494
+      wallblood-removebg-preview_37: -4657856030179804112
+      wallblood-removebg-preview_38: -2062687136519984810
+      wallblood-removebg-preview_39: -1005120676293583415
+      wallblood-removebg-preview_4: -7870830156875933167
+      wallblood-removebg-preview_40: 5680994622515229830
+      wallblood-removebg-preview_41: 7747220983980224470
+      wallblood-removebg-preview_42: -97717099187415245
+      wallblood-removebg-preview_43: -1172518187542023228
+      wallblood-removebg-preview_44: 8059613127089907137
+      wallblood-removebg-preview_5: 4188941602791094607
+      wallblood-removebg-preview_6: -3121915790389698609
+      wallblood-removebg-preview_7: 6856812618372529672
+      wallblood-removebg-preview_8: -6887121894578016059
+      wallblood-removebg-preview_9: 8169760495990921861
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

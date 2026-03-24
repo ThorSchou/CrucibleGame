@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using Unity.Cinemachine;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -24,6 +25,10 @@ public class GameManager : MonoBehaviour
             return instance;
         }
     }
+
+    // Set by SceneLoadTrigger before loading a scene.
+    // SpawnPoint objects read this to position the player on arrival.
+    public static string nextSpawnPointId;
 
     [Header("References")]
     public AudioSource audioSource;
@@ -88,6 +93,16 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         audioSource = GetComponent<AudioSource>();
+
+        GameObject[] allObjects = Resources.FindObjectsOfTypeAll<GameObject>();
+        foreach (GameObject obj in allObjects)
+        {
+            if (obj.name == "PauseMenu" && obj.scene.isLoaded)
+            {
+                DontDestroyOnLoad(obj);
+                break;
+            }
+        }
     }
 
     void OnDestroy()
@@ -97,15 +112,38 @@ public class GameManager : MonoBehaviour
 
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        audioSource = GetComponent<AudioSource>();
         hud = FindFirstObjectByType<HUD>();
         dialogueBoxController = FindFirstObjectByType<DialogueBoxController>();
+
+        foreach (DialogueTrigger trigger in FindObjectsByType<DialogueTrigger>(FindObjectsInactive.Include, FindObjectsSortMode.None))
+            trigger.EnableInteractAction();
+
+        audioSource = GetComponent<AudioSource>();
 
         GameObject musicObj = GameObject.FindGameObjectWithTag("GameMusic");
         if (musicObj != null) gameMusic = musicObj.GetComponent<AudioTrigger>();
 
         GameObject ambienceObj = GameObject.FindGameObjectWithTag("GameAmbience");
         if (ambienceObj != null) gameAmbience = ambienceObj.GetComponent<AudioTrigger>();
+
+        StartCoroutine(AssignConfinerNextFrame());
+    }
+
+    private System.Collections.IEnumerator AssignConfinerNextFrame()
+    {
+        yield return null; // wait one frame for scene to fully initialize
+
+        GameObject confinerObj = GameObject.FindGameObjectWithTag("Confiner");
+        CinemachineCamera cinemachineCam = FindFirstObjectByType<CinemachineCamera>();
+        if (confinerObj != null && cinemachineCam != null)
+        {
+            var confiner = cinemachineCam.GetComponent<CinemachineConfiner2D>();
+            if (confiner != null)
+            {
+                confiner.BoundingShape2D = confinerObj.GetComponent<Collider2D>();
+                confiner.InvalidateBoundingShapeCache();
+            }
+        }
     }
 
     // Coins

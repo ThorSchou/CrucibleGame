@@ -70,6 +70,8 @@ public class EnemySpawner : MonoBehaviour
 
         if (RoundManager.Instance.CurrentRound == 0)
             RoundManager.Instance.StartNewRound();
+        else
+            StartRound();
     }
 
     void OnDestroy()

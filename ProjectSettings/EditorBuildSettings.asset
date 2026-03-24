@@ -7,24 +7,24 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/Arena.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
-  - enabled: 1
+    guid: c5d5bc893c22ac34695b49d8590a7301
+  - enabled: 0
     path: Assets/Scenes/BuyGear.unity
     guid: 8da40ca90ba7e21469f5cfaffd607fba
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 3968835617eab084a88a5975f4d52024
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Settings.unity
     guid: 4eec13fac2bb92b4e9727555e3c65cab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stats.unity
     guid: fc89dfab233c9e44faaef0063fa1ec7d
   - enabled: 0
     path: Assets/Scenes/Test.unity
     guid: 9c0cee07afe0e494e94002f8968b674f
   - enabled: 1
-    path: Assets/Scenes/Thor.unity
+    path: Assets/Scenes/Arena.unity
     guid: c5d5bc893c22ac34695b49d8590a7301
   - enabled: 1
     path: Assets/Scenes/Hub.unity

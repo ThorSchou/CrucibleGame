@@ -155,7 +155,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneLoadTrigger
   loadSceneName: Hub
-  isArenaEntrance: 1
+  spawnPointId: fromArena
+  isArenaEntrance: 0
   clearInventory: 1
 --- !u!114 &1259521885415375891
 MonoBehaviour:

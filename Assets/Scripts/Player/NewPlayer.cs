@@ -19,7 +19,7 @@ public class NewPlayer : PhysicsObject
     public CameraEffects cameraEffects;
     public RecoveryCounter recoveryCounter;
 
-    // Filled in Start — other scripts access combat and stats through these
+    // Filled in Start ï¿½ other scripts access combat and stats through these
     [System.NonSerialized] public PlayerCombat combat;
     [System.NonSerialized] public PlayerStats stats;
 
@@ -71,25 +71,36 @@ public class NewPlayer : PhysicsObject
 
     private void OnEnable()
     {
-        jumpAction.action.performed += OnJump;
-        attackAction.action.performed += OnAttack;
-        poundAction.action.performed += OnPound;
-        pauseAction.action.performed += OnPause;
+        if (jumpAction != null) jumpAction.action.performed += OnJump;
+        if (attackAction != null) attackAction.action.performed += OnAttack;
+        if (poundAction != null) poundAction.action.performed += OnPound;
+        if (pauseAction != null) pauseAction.action.performed += OnPause;
 
-        // Remove these five lines if using a PlayerInput component on this GameObject
-        moveAction.action.Enable();
-        jumpAction.action.Enable();
-        attackAction.action.Enable();
-        poundAction.action.Enable();
-        pauseAction.action.Enable();
+        if (moveAction != null) moveAction.action.Enable();
+        if (jumpAction != null) jumpAction.action.Enable();
+        if (attackAction != null) attackAction.action.Enable();
+        if (poundAction != null) poundAction.action.Enable();
+        if (pauseAction != null) pauseAction.action.Enable();
     }
 
     private void OnDisable()
     {
-        jumpAction.action.performed -= OnJump;
-        attackAction.action.performed -= OnAttack;
-        poundAction.action.performed -= OnPound;
-        pauseAction.action.performed -= OnPause;
+        if (jumpAction != null) jumpAction.action.performed -= OnJump;
+        if (attackAction != null) attackAction.action.performed -= OnAttack;
+        if (poundAction != null) poundAction.action.performed -= OnPound;
+        if (pauseAction != null) pauseAction.action.performed -= OnPause;
+    }
+
+    void Awake()
+    {
+        base.Awake();
+        if (instance != null && instance != this)
+        {
+            Destroy(gameObject);
+            return;
+        }
+        instance = this;
+        DontDestroyOnLoad(gameObject);
     }
 
     void Start()
@@ -124,7 +135,7 @@ public class NewPlayer : PhysicsObject
 
         if (!frozen)
         {
-            moveInput = moveAction.action.ReadValue<Vector2>();
+            moveInput = moveAction != null ? moveAction.action.ReadValue<Vector2>() : Vector2.zero;
             move.x = moveInput.x + launch;
 
             if (moveInput.x > 0.01f)

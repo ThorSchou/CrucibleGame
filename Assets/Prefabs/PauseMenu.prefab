@@ -366,7 +366,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &224908452087460466
 RectTransform:
   m_ObjectHideFlags: 0
@@ -466,4 +466,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PauseMenu
   pressSound: {fileID: 8300000, guid: 6f859e6cb33136b469af0560141d3fe5, type: 3}
   openSound: {fileID: 8300000, guid: 6f859e6cb33136b469af0560141d3fe5, type: 3}
-  pauseMenu: {fileID: 0}
+  pauseMenu: {fileID: 1994994548094198}
